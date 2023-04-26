@@ -1,0 +1,20 @@
+.song-image:hover {
+  cursor: pointer;
+}
+
+.username:hover {
+  cursor: pointer;
+}
+
+.likes:hover {
+  cursor: pointer;
+}
+
+.comments:hover {
+  cursor: pointer;
+}
+
+.song-image {
+  width: 600;
+  height: 600;
+}
